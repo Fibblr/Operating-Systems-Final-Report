@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cameron\\source\\repos\\StaticLib2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236F6EAD-A468-41BB-B7E4-D3A375E1CAA7}|..\\staticapp\\staticapp.vcxproj|C:\\Users\\Cameron\\source\\repos\\staticapp\\epicstatic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB5F3DD-0887-4B32-91FB-BF20BCCFAB8F}|StaticLib2.vcxproj|C:\\Users\\Cameron\\source\\repos\\StaticLib2\\epiclib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABB5F3DD-0887-4B32-91FB-BF20BCCFAB8F}|StaticLib2.vcxproj|solutionrelative:epiclib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "epicstatic.c",
+              "DocumentMoniker": "C:\\Users\\Cameron\\source\\repos\\staticapp\\epicstatic.c",
+              "RelativeDocumentMoniker": "..\\staticapp\\epicstatic.c",
+              "ToolTip": "C:\\Users\\Cameron\\source\\repos\\staticapp\\epicstatic.c",
+              "RelativeToolTip": "..\\staticapp\\epicstatic.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-02T05:27:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "epiclib.c",
+              "DocumentMoniker": "C:\\Users\\Cameron\\source\\repos\\StaticLib2\\epiclib.c",
+              "RelativeDocumentMoniker": "epiclib.c",
+              "ToolTip": "C:\\Users\\Cameron\\source\\repos\\StaticLib2\\epiclib.c",
+              "RelativeToolTip": "epiclib.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-02T04:46:28.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
